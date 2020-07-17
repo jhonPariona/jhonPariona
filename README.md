@@ -17,8 +17,6 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jhonPariona?label=GitHub&logo=github&style=flat-square">
 </p>
 
-![gif](https://raw.githubusercontent.com/jhonPariona/images/master/ProfileReadme/ezgif.com-gif-maker.gif)
-
 <ul>
   <li> 👶 I'm from Perú <span> <img src="https://cultofthepartyparrot.com/flags/hd/peruparrot.gif" height="30"/> </span>  </li>
   <li> 💻 I’m currently learning 
