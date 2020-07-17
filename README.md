@@ -17,6 +17,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jhonPariona?label=GitHub&logo=github&style=flat-square">
 </p>
 
+![gif](https://raw.githubusercontent.com/jhonPariona/images/master/ProfileReadme/ezgif.com-gif-maker.gif)
 
 <ul>
   <li> 👶 I'm from Perú <span> <img src="https://cultofthepartyparrot.com/flags/hd/peruparrot.gif" height="30"/> </span>  </li>
@@ -33,12 +34,12 @@
 <h2 align="center">Favorite Tools</h3>
 
 <p align="left">
-  <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="react"   height="120"/>
-  <img src="https://camo.githubusercontent.com/5a854f8dc065b628da0dd42fd83eddaf07e75027/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" alt="react"   height="120"/>
-  <img src="https://camo.githubusercontent.com/9a5abb6694acc0a7c27c79f6846a90ea8117a369/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" alt="react"   height="120"/>
-  <img src="https://miro.medium.com/max/535/1*JGcKFmzk_K1zweGMBQaJQg.png" alt="react"  height="120"/>
-  <img src="http://daphnisys.com/images/react_native1.gif" alt="react"   height="120"/>
-  <img src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" alt="react"  height="120"/>
+  <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="react"   height="100"/>
+  <img src="https://camo.githubusercontent.com/5a854f8dc065b628da0dd42fd83eddaf07e75027/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" alt="react"   height="100"/>
+  <img src="https://camo.githubusercontent.com/9a5abb6694acc0a7c27c79f6846a90ea8117a369/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" alt="react"   height="100"/>
+  <img src="https://miro.medium.com/max/535/1*JGcKFmzk_K1zweGMBQaJQg.png" alt="react"  height="100"/>
+  <img src="http://daphnisys.com/images/react_native1.gif" alt="react"   height="100"/>
+  <img src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" alt="react"  height="100"/>
   
 </p>
 
