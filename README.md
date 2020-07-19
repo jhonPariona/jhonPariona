@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/jhonpariona" alt="https://github.com/jhonpariona" />
+  <img src="https://komarev.com/ghpvc/?username=jhonpariona" alt="https://github.com/jhonpariona" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jhonPariona?label=GitHub&logo=github&style=flat-square">
 </p>
 
