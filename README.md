@@ -1,44 +1,59 @@
-<h1 align="center">
+<h2 align="center">
   Hi
-  <img src="https://raw.githubusercontent.com/jhonPariona/images/master/ProfileReadme/Hi.gif" alt="hello" height="30"/> 
+  <img src="https://raw.githubusercontent.com/jhonPariona/images/master/ProfileReadme/Hi.gif" alt="hello" height="30"/>
   , I'm Jhon Pariona
   <img src="https://camo.githubusercontent.com/e15e75521862be103c834df436a8f9e075c945e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" alt="octocat" height="30"/>
-<h1/>
+</h2>
+<!-- gif -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jhonPariona/images/master/ProfileReadme/ezgif.com-gif-maker.gif"/>
+</div>
+<!-- badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wilderpariona" alt="wilderpariona" />
+</div>
 
-<h3 align="center">Student of Systems Engineer at 
-  <a href="http://www.unsch.edu.pe/">
-    <img src="http://www.unsch.edu.pe/wp-content/uploads/2019/10/logounsch.png" alt="UNSCH" height="40" />
-  </a>
+<!-- description -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jhonPariona&hide_border=true&count_private=true&theme=buefy" alt="jhonPariona"/>
+<br/>
+I study system engineering at San Cristóbal of Huamanga University.
+I like learning new things about software developer.
 
-</h3>
+- 💬 Ask me about **Git, React**
+- 📫 How to reach me **jhon.pariona.27@unsch.edu.pe**
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/jhonpariona" alt="https://github.com/jhonpariona" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/jhonPariona?label=GitHub&logo=github&style=flat-square">
-</p>
+<!-- favorite tools -->
+<!-- <h2 align="center">Favorite Tools</h3> -->
 
-<ul>
-  <li> 👶 I'm from Perú <span> <img src="https://cultofthepartyparrot.com/flags/hd/peruparrot.gif" height="30"/> </span>  </li>
-  <li> 💻 I’m currently learning 
-    <b>React Paterns</b> 
-      
-  </li>
-  
-  <li> 🗣️ Ask me about: <b>React, Git</b></li>
-  
-</ul>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonPariona&layout=compact" alt="jhonPariona"/>
 
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="react"   height="80"/>
+  <img src="https://camo.githubusercontent.com/5a854f8dc065b628da0dd42fd83eddaf07e75027/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" alt="react"   height="80"/>
+  <img src="https://camo.githubusercontent.com/9a5abb6694acc0a7c27c79f6846a90ea8117a369/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" alt="react"   height="80"/>
+  <img src="https://miro.medium.com/max/535/1*JGcKFmzk_K1zweGMBQaJQg.png" alt="react"  height="80"/>
+  <img src="http://daphnisys.com/images/react_native1.gif" alt="react"   height="80"/>
+  <img src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" alt="react"  height="80"/>
+</div>
 
-<h2 align="center">Favorite Tools</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="react"   height="100"/>
-  <img src="https://camo.githubusercontent.com/5a854f8dc065b628da0dd42fd83eddaf07e75027/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" alt="react"   height="100"/>
-  <img src="https://camo.githubusercontent.com/9a5abb6694acc0a7c27c79f6846a90ea8117a369/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" alt="react"   height="100"/>
-  <img src="https://miro.medium.com/max/535/1*JGcKFmzk_K1zweGMBQaJQg.png" alt="react"  height="100"/>
-  <img src="http://daphnisys.com/images/react_native1.gif" alt="react"   height="100"/>
-  <img src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif" alt="react"  height="100"/>
-  
-</p>
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pariona_wilder" height="20" width="20" />][twiter]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="17"/>][fb]
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wilder-pariona" height="20" width="20" />][linkedin]
 
+</div>
 
+[twiter]: https://twitter.com/pariona_wilder
+[linkedin]: https://linkedin.com/in/wilder-pariona
+[fb]: https://fb.com/pariona.wilder
+
+<!-- Recursos -->
+
+<!-- ------------------ https://cultofthepartyparrot.com/ ------------------ -->
+
+<!-- ---------------- https://visitor-badge.glitch.me/#docs ---------------- -->
+
+<!-- --------- https://github.com/anuraghazra/github-readme-stats ---------- -->
+
+<!-- ------- https://github.com/kefranabg/readme-md-generator#readme ------- -->
