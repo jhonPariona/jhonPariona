@@ -10,7 +10,7 @@
 </div>
 <!-- badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wilderpariona" alt="wilderpariona" />
+  <img src="https://komarev.com/ghpvc/?username=jhonPariona" alt="jhonPariona" />
 </div>
 
 <!-- description -->
